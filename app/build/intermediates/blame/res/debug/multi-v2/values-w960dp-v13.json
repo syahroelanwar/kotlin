@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\syahrul\\AndroidStudioProjects\\Workshop8App\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w960dp-v13\\values-w960dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\syahrul\\AndroidStudioProjects\\Workshop8App\\app\\src\\main\\res\\values-w960dp\\integers.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "664",
+                        "endColumns": "48",
+                        "endOffsets": "708"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}
